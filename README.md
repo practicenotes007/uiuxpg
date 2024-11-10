@@ -1,9 +1,9 @@
 # uiuxpg
 
-UI/UX Playground (uiuxpg)
+项目名称含义：UI/UX Playground (uiuxpg)
 
 ## 项目简介
-该项目是一个用于 UI 和 UX 前端设计的练习，记录practicenotes007个人利用设计工具进行创意实践和设计测试的试验场。
+该项目是一个用于 UI 和 UX 前端设计的练习，记录[开发者](https://github.com/practicenotes007)利用设计工具进行创意实践和设计测试的试验场。
 
 ## 练习题 ：DailyUI#7 Settings - 2024.11.10
 
